@@ -64,7 +64,7 @@ Below is a curated summary of top commercial enterprise lease administration and
 
 Enterprise lease compliance software is predominantly commercial due to audit rigor. However, vibrant open-source ERP systems, property management solutions, and financial accounting engines provide customizable lease administration modules. 
 
-Below are top open-source projects sorted by GitHub stars ⭐ (descending):
+Below are top open-source projects sorted by GitHub_Stars ⭐ (descending):
 
 - **[Odoo](https://github.com/odoo/odoo)** <a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="Odoo Stars"/></a>  
   🤖 *Popular open-source suite of business apps, including contracts, real estate management, rental modules, and ASC 842 / IFRS 16 lease liability ledger integrations.*
@@ -106,7 +106,7 @@ Contributions are welcome! Please follow these simple guidelines:
 
 1. Fork this repository 🍴
 2. Add your product or project to `README.md` maintaining the formatted table/list style ✍️
-3. Include factual details (pricing, star badges, features) 📌
+3. Include factual details (pricing, Stars_Badges, features) 📌
 4. Submit a Pull Request with a clear description 🚀
 
 ---
